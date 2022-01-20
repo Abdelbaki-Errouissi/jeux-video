@@ -1,0 +1,16 @@
+C:\Users\Abdelbaki\source\repos\PtojetJeuxVideos\bin\Debug\net5.0\PtojetJeuxVideos.exe
+C:\Users\Abdelbaki\source\repos\PtojetJeuxVideos\bin\Debug\net5.0\PtojetJeuxVideos.deps.json
+C:\Users\Abdelbaki\source\repos\PtojetJeuxVideos\bin\Debug\net5.0\PtojetJeuxVideos.runtimeconfig.json
+C:\Users\Abdelbaki\source\repos\PtojetJeuxVideos\bin\Debug\net5.0\PtojetJeuxVideos.runtimeconfig.dev.json
+C:\Users\Abdelbaki\source\repos\PtojetJeuxVideos\bin\Debug\net5.0\PtojetJeuxVideos.dll
+C:\Users\Abdelbaki\source\repos\PtojetJeuxVideos\bin\Debug\net5.0\ref\PtojetJeuxVideos.dll
+C:\Users\Abdelbaki\source\repos\PtojetJeuxVideos\bin\Debug\net5.0\PtojetJeuxVideos.pdb
+C:\Users\Abdelbaki\source\repos\PtojetJeuxVideos\obj\Debug\net5.0\PtojetJeuxVideos.csproj.AssemblyReference.cache
+C:\Users\Abdelbaki\source\repos\PtojetJeuxVideos\obj\Debug\net5.0\PtojetJeuxVideos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abdelbaki\source\repos\PtojetJeuxVideos\obj\Debug\net5.0\PtojetJeuxVideos.AssemblyInfoInputs.cache
+C:\Users\Abdelbaki\source\repos\PtojetJeuxVideos\obj\Debug\net5.0\PtojetJeuxVideos.AssemblyInfo.cs
+C:\Users\Abdelbaki\source\repos\PtojetJeuxVideos\obj\Debug\net5.0\PtojetJeuxVideos.csproj.CoreCompileInputs.cache
+C:\Users\Abdelbaki\source\repos\PtojetJeuxVideos\obj\Debug\net5.0\PtojetJeuxVideos.dll
+C:\Users\Abdelbaki\source\repos\PtojetJeuxVideos\obj\Debug\net5.0\ref\PtojetJeuxVideos.dll
+C:\Users\Abdelbaki\source\repos\PtojetJeuxVideos\obj\Debug\net5.0\PtojetJeuxVideos.pdb
+C:\Users\Abdelbaki\source\repos\PtojetJeuxVideos\obj\Debug\net5.0\PtojetJeuxVideos.genruntimeconfig.cache
